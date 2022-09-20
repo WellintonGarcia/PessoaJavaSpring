@@ -1,0 +1,8 @@
+br/com/onSafety/devJunior/wellintongarcia/pessoas/Application.java
+ br.com.onSafety.devJunior.wellintongarcia.pessoas.Application
+br/com/onSafety/devJunior/wellintongarcia/pessoas/repositories/PessoaRepository.java
+ br.com.onSafety.devJunior.wellintongarcia.pessoas.repositories.PessoaRepository
+br/com/onSafety/devJunior/wellintongarcia/pessoas/models/Pessoa.java
+ br.com.onSafety.devJunior.wellintongarcia.pessoas.models.Pessoa
+br/com/onSafety/devJunior/wellintongarcia/pessoas/controllers/PessoasController.java
+ br.com.onSafety.devJunior.wellintongarcia.pessoas.controllers.PessoasController
